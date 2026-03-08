@@ -146,9 +146,3 @@ npm run build
 If backend tests are included:
 
 pytest
-
-
-
-## Author
-
-Built as a full-stack assessment project demonstrating backend architecture, validation logic, and frontend in
